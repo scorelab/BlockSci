@@ -1,5 +1,5 @@
 BlockSci
-~~~~~~~~~~~~~~~~~~
+==================
 
 The Bitcoin blockchain — currently 170 GB and growing — contains a massive amount of data that can give us insights into the Bitcoin ecosystem, including how users, businesses, and miners operate. BlockSci enables fast and expressive analysis of Bitcoin’s and many other blockchains.
 
